@@ -1,6 +1,6 @@
 import React, { useState, useEffect } from 'react'
 import { Column } from '../Column'
-import InitialState from '../../Utils/Mokcup.json'
+import InitialState from '../../Utils/Ambiente1.json'
 import './styles.css'
 
 export const Calendarizacion = () => {
