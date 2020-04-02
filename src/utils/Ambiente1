@@ -1,0 +1,142 @@
+[
+		    {
+		        "id": 1,
+		        "title": "Sprint Planning #1",
+		        "content": [
+		            {
+		                "id": "AP0",
+		                "description": "Definir tdetalles App"
+		            },
+		            {
+		                "id": "AP1",
+		                "description": "Desarrollo de entorno"
+		            },
+		            {
+		                "id": "AP2",
+		                "description": "Crear Pantalla 1"
+		            },
+		            {
+		                "id":"AP3",
+		                "description": "Crear base de datos"
+		            },
+		            {
+		                "id":"AP4",
+		                "description": "Creacion de Pantalla 2"
+		            },
+		            {
+		                "id":"AP5",
+		                "description": "Configuracion de Server"
+             },
+		            {
+		                "id":"AP6",
+		                "description": "Interfaz elecronica"
+		            },
+		            {
+		                "id":"AP7",
+		                "description": "Integracion del Sistema"
+             },
+		            {
+		                "id":"AP8",
+		                "description": "Creacion de Manual"
+		            },
+]
+},
+{        "id": 2,
+        "title": "Tasks",
+        "content": [
+            {
+                "backlog": "AP0",
+                "id": 1,
+                "description": "Crear documento con especificaciones tecnicas de la aplicacion",
+                "inCharge": Erika Vizcarra"
+             },
+             {
+             "backlog": "AP0",
+             "id": 2,
+                "description": "Selecionar el sistema operativo que se va a usar Android, ISO",
+                "inCharge": Erika Vizcarra"
+             },
+             {
+             "backlog": "AP0",
+             "id": 3,
+                "description": "Realizar documento de aprobacion",
+                "inCharge": Erika Vizcarra"
+             },
+             {
+              "backlog": "AP1",
+                "id": 1.1,
+                "description": "Instacion de create-react",
+                "inCharge": Erika Vizcarra"
+             },
+             {
+             "backlog": "AP1",
+             "id": 1.2,
+                "description": "Crear esqueleto en create react",
+                "inCharge": Erika Vizcarra"
+             },
+             {
+             "backlog": "AP0",
+             "id": 1.3,
+                "description": "Instalacion de node",
+                "inCharge": Erika Vizcarra"
+             },
+             {
+             "backlog": "AP2",
+                "id": 2.1,
+                "description": "Crear archivo HTML",
+                "inCharge": Erika Vizcarra"
+             },
+             {
+             "backlog": "AP2",
+             "id": 2.2,
+                "description": "crear archivo CSS",
+                "inCharge": Erika Vizcarra"
+             },
+             {
+             "backlog": "AP2",
+             "id": 2.3,
+                "description": "Crear archivo js",
+                "inCharge": Erika Vizcarra"
+             },
+              {
+             "backlog": "AP2",
+             "id": 2.4,
+                "description": "Probar  pantalla 1",
+                "inCharge": Erika Vizcarra"
+             },
+             {
+             "backlog": "AP3",
+             "id": 3.1,
+                "description": "Crear pantalla de datos",
+                "inCharge": Erika Vizcarra"
+             },
+              {
+             "backlog": "AP3",
+             "id": 3.2,
+                "description": "Probar base de  datos",
+                "inCharge": Erika Vizcarra"
+             },
+             ]
+             
+             {
+             "id": 1.1,
+        "title": "Done",
+        "content": [
+
+        ]
+    },
+    {
+        "id": 1.2,
+        "title": "Done",
+        "content": [
+
+        ]
+    },
+    {
+        "id": 1,3,
+        "title": "Done",
+        "content": [
+
+        ]
+    }
+] 
