@@ -1,16 +1,29 @@
-import React from 'react';
-import logo from './logo.svg';
-import './App.css';
+import React from 'react'
+	import { Calendarizacion } from './Components/Calendarizacion'
+	import './App.css'
+	 
+	function App() {
+	  return (
+	    <div className="App">
+	      <div className="members">
+	        <h1>Proyecto: <b> Creación de Sotfware para controlar el acceso a la cochera desde un móvil
+ </b></h1>
+	        <span>Product Owner: <b>Erika Vizcarra</b></span>
+	        <span>Scrum Master: <b>Armando Lara</b></span>
+	        <span>Desarrollador: <b>Erika Vizcarra</b></span>
+	        <span className="taskStatus">
+	          <div className="completedStatus"></div>
+	          <span>Completado</span>
+	        </span>
+	        <span className="taskStatus">
+	          <div className="uncompletedStatus"></div>
+	          <span>Incompleto</span>
+	        </span>
+	      </div>
+	      <Calendarizacion />
+	    </div>
+	  )
+	}
 
-function App() {
-  return (
-    <div className="container">
-     <h1 className="title">
-     Hello world <span aria-label="emoji" role="img">🔥</span>
-     </h1>
-     <input type=" text" className="new-task"/>
-    </div>
-  );
-}
 
 export default App;
