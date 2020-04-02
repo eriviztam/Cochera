@@ -1,0 +1,10 @@
+.backlog-na {
+    background-color: khaki;
+    padding: 10px 5px;
+    margin: 10px 0px;
+    border-radius: 5px;
+}
+
+.backlog-na > p {
+    margin: 0;
+} 
