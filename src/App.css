@@ -1,26 +1,13 @@
-body {
-  background-color: black;
-  display: flex;
-  justify-content: center;
-}
-.container {
-  display: block;
-  width: 500px;
-  margin-top: 120px;
-}
-.title {
-  text-align: center;
-  color: white;
-}
+@import url('https://fonts.googleapis.com/css?family=Roboto&display=swap');
 
-.new-task {
-  display: block;
-  width: 100%;
-  background-color: azure;
-  border-radius: 10px;
-  height: 40px;
-  border-color: aquamarine;
-  border-width: 4px;
-  text-align: center;
-  font-size: 24px;
+:root {
+  --main-color: #0079BF;
+  --main-color-transparent: rgba(0, 121, 191, 0.1)
 }
+body {
+  margin: 0;
+  padding: 0;
+  font-family: 'Roboto', 'Helvetica', sans-serif, system-ui;
+  background-color: var(--main-color-transparent);
+  height: 100vh;
+} 
