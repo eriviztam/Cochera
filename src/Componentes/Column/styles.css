@@ -1,10 +1,10 @@
-.Card  {
+.Column  {
     box-shadow: 1px 1px 1px 0px rgba(0,0,0,0.5);
     border-radius: 10px;
     background-color: white;
 }
 
-.Card__title {
+.Column__title {
     background-color: var(--main-color);
     color: white;
     letter-spacing: 1px;
@@ -16,12 +16,7 @@
 
 }
 
-.Card__content {
+.Column__content {
     padding: 30px;
-}
 
-.Card__tasks {
-    display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(300px, 300px));
-    column-gap: 10px;
 } 
