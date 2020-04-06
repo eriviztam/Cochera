@@ -53,19 +53,19 @@
             {
                 "backlog": "AP0",
                 "id": 1,
-                "description": "Crear documento con especificaciones tecnicas de la aplicacion",
+                "description": "Dicusion grupal o elaboracion  en pizarron sobre como sera implementada la aplicacion",
                 "inCharge": Erika Vizcarra"
              },
              {
              "backlog": "AP0",
              "id": 2,
-                "description": "Selecionar el sistema operativo que se va a usar Android, ISO",
+                "description": "Defiir interfaz y metodos que se necesitaran  para la conexion",
                 "inCharge": Erika Vizcarra"
              },
              {
              "backlog": "AP0",
              "id": 3,
-                "description": "Realizar documento de aprobacion",
+                "description": "Veridficar requerimientos no fuincionales atributos de calidad  , (como seguridad , desempeño usabilidad, mantenumiento, extensibilidad, escalabilidad y capacidad de ser probado",
                 "inCharge": Erika Vizcarra"
              },
              {
