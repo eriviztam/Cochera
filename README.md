@@ -2,8 +2,8 @@ Qué es OFFEN?
  OFEEN es una aplicación para abrir puertas de garaje o puertas eléctricas en general, sin utilizar la llave, ni un mando a distancia ni ningún otro dispositivo al efecto. Se trata de una aplicación que se relaciona con el dispositivo de apertura y cierre de la puerta del garaje, se adapta a ella perfectamente, seas cuales sean sus especificaciones,
  
 ![](public/pantalla1.png)
-
-
+![](public/pantalla2.png)
+![](public/pantalla3.png)
 
 ## Instructions
 
